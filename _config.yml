@@ -3,7 +3,7 @@ title: Blog for Wyw
 description: >
   这是一段描述
 
-baseurl: "/blog//" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "https://nkuwyw.github.io" # the base hostname & protocol for your site
 
 author:
