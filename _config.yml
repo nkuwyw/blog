@@ -10,7 +10,7 @@ author:
   fullname: Wyw
   github: nkuwyw
   E-mail: nkuwyw@gmail.com
-  # disqus: your_disqus_forum_shortname
+  disqus: true
 
 # google_analytics: 'UA-XXXXXXXX-X'
 
