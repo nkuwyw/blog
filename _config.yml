@@ -11,8 +11,7 @@ author:
   github: nkuwyw
   E-mail: nkuwyw@gmail.com
   disqus: true
-
-# google_analytics: 'UA-XXXXXXXX-X'
+  google_analytics: true
 
 # Syntax highlighting
 highlightstyle: ''
